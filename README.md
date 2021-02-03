@@ -8,7 +8,8 @@ In order to replace this file, you will need to:
 * Open two terminal windows on your computer (where you have placed the new file)
 * In first window, "ssh" onto your Raspberry Pi (see document below)
 * Use the "rw" command to make the filesystem writable
-* In second window, transfer the new file onto your Raspberry Pi using "scp"
+* In second window, transfer the new file using "scp" onto your Raspberry Pi
+* That will leave the file in /home/pi
 * In the first window, "cd" to /usr/local/bin
 * (optional but recommended just in case) Save a copy of jacktrip-init.sh
 * Move the file in ~/jacktrip-init.sh to the current directory (use "sudo mv")
