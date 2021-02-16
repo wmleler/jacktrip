@@ -1,3 +1,6 @@
+IMPOERTANT NOTE! This file has been incorporated into the JackTrip Virtual Device
+software, so there is no longer any need to manually incorporate it yourself.
+
 This file is to make your Raspberry Pi running the JackTrip disk image from the
 JackTrip Foundation accept most USB connected audio adapters, interfaces, or mixers.
 The jacktrip-init.sh file in this repository replaces the file of the same name
